@@ -1,4 +1,4 @@
-![Imran Bot Logo](images/imran-bot-logo.png)
+![Imran Bot Logo](https://i.ibb.co.com/mCLq42Nb/1744278640997.jpg)
 
 
 
