@@ -25,8 +25,8 @@ A WhatsApp bot that can download videos from various platforms, interact with us
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/imran-bot.git
-    cd imran-bot
+    git clone https://github.com/MR-IMRAN-60/WP-VIDDOWN-BOT.git
+    cd WP-VIDDOWN-BOT
     ```
 
 2. Install dependencies:
