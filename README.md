@@ -1,7 +1,7 @@
 
 # 🤖 IMRAN WhatsApp Bot - Video Downloader
 
-![Imran Bot Logo](https://i.ibb.co.com/mCLq42Nb/1744278640997.jpg)
+![Imran Bot Logo](https://i.ibb.co.com/KpGjKnwP/1744391270818.jpg)
 
 
 A multifunctional WhatsApp bot with video downloading capabilities and AI chat features. Supports both QR code and pairing code authentication methods.
