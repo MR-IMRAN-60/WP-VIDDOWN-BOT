@@ -1,9 +1,8 @@
-Here's a comprehensive combined README.md incorporating both the main bot features and pairing code setup:
-
 ```markdown
 # 🤖 IMRAN WhatsApp Bot - Video Downloader
 
-![Banner](https://i.ibb.co.com/mCLq42Nb/1744278640997.jpg)
+![Imran Bot Logo](https://i.ibb.co.com/mCLq42Nb/1744278640997.jpg)
+
 
 A multifunctional WhatsApp bot with video downloading capabilities and AI chat features. Supports both QR code and pairing code authentication methods.
 
